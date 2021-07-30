@@ -1,0 +1,109 @@
+.contact{
+    background-color: #101010; 
+    color:#9d9d9d; 
+    bottom: 0; 
+    width: 100%; 
+    font-size:13px;
+    position:fixed;
+
+}
+#banner_image{
+    background: url('imgs/hos.jpg') no-repeat center center; 
+    background-size: cover;
+}
+#spacing{
+    padding: 0 15px;
+}
+#banner_image1{
+    background: url('imgs/hos.jpg') no-repeat center center; 
+    background-size: cover;
+}
+
+.banner_bldimg{
+    background: url('imgs/bd2.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.donate{
+    padding-bottom:10px;
+    margin-top:7px;
+
+}
+#donar{
+    padding:5px;
+    margin-top:5%;
+    max-width:660px;
+    background-color: rgba(255,0,0);
+}
+.thank{
+    margin-top:75px;
+}
+.right{
+    padding: 10px0;
+    background-color: #101010; 
+    color:#9d9d9d;
+    bottom: 0; 
+    width: 100%; 
+    font-size:13px;  
+}
+#banner_bacimg{
+    background: url('imgs/cover_img.jpg') no-repeat center center;
+    background-size: cover;
+}
+#banner_content{
+    position: relative; 
+    padding-top: 4%;
+    padding-bottom: 8%;
+    margin-top: 8%; 
+    margin-bottom: 11%; 
+    background-color: rgba(0, 0, 0, 0.7); 
+    max-width: 630px; 
+    margin-left:300px;
+}
+.banner_imagebg{
+    background: url('imgs/hos.jpg') no-repeat center center;
+    background-size: cover;
+}
+.banner_image3{
+    background: url('imgs/hos.jpg') no-repeat center center;
+    background-size: cover; 
+}
+
+.thankyou{
+    margin-top:190px;
+    background-color:#add8e6;
+}
+.dropbtn {
+    background-color: #222222;
+    color: #979597;
+    padding: 15px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown :hover {color: white;}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
